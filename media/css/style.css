@@ -5048,7 +5048,7 @@ p.normal-form-text{
     width: 95%;
     right: -15px;
     left: auto;
-}
+    }
 .queensland.green-army-banner .bannerText{bottom:0;}
     .green-army-banner.queensland{min-height: 196px;position: relative;}
     /*.queensland-header .green-army-logo{width: 190px;}*/
@@ -5056,10 +5056,13 @@ p.normal-form-text{
     margin: 0 5px;}
     .contact-page .tab-content li .contect-section span{font-size: 18px;}
     .contact-page .tab-content{padding: 0;}
+
+    #job-ad-options-top.job-ad-part{ height: 120px}
 }
 
 @media screen and (max-width: 599px) {
-    
+    #job-ad-options-top.job-ad-part{ height: 120px}
+
     #job-ad-template .job-ad-option
     {
         margin: 0.5em 0;
